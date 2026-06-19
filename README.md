@@ -10,11 +10,11 @@ I also run my QA work AI-augmented (Claude + MCP), which cut test documentation 
 
 ### Projects
 
-- **[kafka-testing-lab](https://github.com/LIMITROVVV/kafka-testing-lab)** - testing event-driven services on Kafka: outbox, idempotency, at-least-once delivery, contract checks
-- **[rest-api-pytest-framework](https://github.com/LIMITROVVV/rest-api-pytest-framework)** - REST API test framework on pytest, service objects, Allure reports, CI
-- **[contract-testing-rest-grpc](https://github.com/LIMITROVVV/contract-testing-rest-grpc)** - schema and contract testing for REST (Schemathesis) and gRPC (protobuf)
-- **[postman-newman-ci](https://github.com/LIMITROVVV/postman-newman-ci)** - Postman collections under version control, run in CI via Newman
-- **[ai-assisted-qa-mcp](https://github.com/LIMITROVVV/ai-assisted-qa-mcp)** - plugging Claude + MCP into a QA workflow, with honest notes on where AI helps and where it doesn't
+- **[kafka-testing-lab](https://github.com/anton-kirilchuk/kafka-testing-lab)** - testing event-driven services on Kafka: outbox, idempotency, at-least-once delivery, contract checks
+- **[rest-api-pytest-framework](https://github.com/anton-kirilchuk/rest-api-pytest-framework)** - REST API test framework on pytest, service objects, Allure reports, CI
+- **[contract-testing-rest-grpc](https://github.com/anton-kirilchuk/contract-testing-rest-grpc)** - schema and contract testing for REST (Schemathesis) and gRPC (protobuf)
+- **[postman-newman-ci](https://github.com/anton-kirilchuk/postman-newman-ci)** - Postman collections under version control, run in CI via Newman
+- **[ai-assisted-qa-mcp](https://github.com/anton-kirilchuk/ai-assisted-qa-mcp)** - plugging Claude + MCP into a QA workflow, with honest notes on where AI helps and where it doesn't
 
 ### Stack
 
